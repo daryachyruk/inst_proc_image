@@ -30,6 +30,14 @@ python insta.py -l <load_path> -s <store_path>
 
 Результатом работы cкрипта является обрезка области с изображением.
 
+
+![Иллюстрация1 к проекту](https://github.com/daryachyruk/inst_proc_image/blob/master/images/img2.jpg)
+
+
+
+![Иллюстрация2 к проекту](https://github.com/daryachyruk/inst_proc_image/blob/master/images/img_cut.jpg)
+
+
 ## 4. Рабочая среда
 
 ### 4.1. Используемое ПО
